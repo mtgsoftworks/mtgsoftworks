@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [eduGenie](https://github.com/mtgsoftworks/eduGenie)
 
-- 🌱 I’m currently learning **PyTorch, Tenserflow, YOLO, C-NN, OpenCV**
+- 🌱 I’m currently learning **PyTorch, Tenserflow, YOLO, ConvNet, OpenCV**
 
 - 💬 Ask me about **Python3, C#, YOLO, Machine-Learning, Cyber-Security**
 

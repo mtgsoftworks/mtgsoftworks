@@ -7,17 +7,19 @@
 
 ---
 
-### 🚀 Featured Projects & Highlights
+### 🚀 Featured Projects (Top Starred Repositories)
 
-Here are some of the key projects I've been working on, showcasing my skills in full-stack development, AI/ML, and cross-platform mobile applications.
+Updated with the current highest-starred repositories from my profile.
 
-| Project Name | Primary Technology | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **[eduGenie](https://github.com/mtgsoftworks/eduGenie)** | Python | An interactive chatbot that supports English language learning with personalized responses, emotion detection, and a talking head avatar for an immersive experience. (AI/ML, NLP, Python) | Active |
-| **[Forex\_Project](https://github.com/mtgsoftworks/Forex_Project)** | Java | Enterprise forex exchange rate processing platform featuring TCP streaming, REST APIs, real-time calculations, and event-driven architecture with Kafka & Redis. (Backend, High-Performance) | Completed |
-| **[MasrafApp](https://github.com/mtgsoftworks/MasrafApp)** | Dart (Flutter) | A sleek, cross-platform mobile app designed to simplify personal expense tracking, featuring secure sign-in, customizable categories, and interactive analytics. (Mobile, Cross-Platform) | Active |
-| **[MedVisionAI](https://github.com/mtgsoftworks/MedVisionAI)** | Python | A deep learning project focused on medical image analysis, likely involving computer vision models for diagnosis or feature extraction. (Deep Learning, Computer Vision) | New |
-| **[SafeAPI-Bridge](https://github.com/mtgsoftworks/SafeAPI-Bridge)** | JavaScript | A project likely focused on securely bridging or managing API interactions, emphasizing security and robust integration. (API Gateway, Security) | New |
+| Project Name | Stars | Primary Technology | Description |
+| :--- | :---: | :--- | :--- |
+| **[exe2html](https://github.com/mtgsoftworks/exe2html)** | ⭐ 12 | Python | Converts `.exe` files to `.html` format. |
+| **[exe2ps1](https://github.com/mtgsoftworks/exe2ps1)** | ⭐ 6 | Python | Converts `.exe` files to PowerShell (`.ps1`) scripts. |
+| **[Forex\_Project](https://github.com/mtgsoftworks/Forex_Project)** | ⭐ 5 | Java | Enterprise forex exchange platform with TCP streaming, REST APIs, Kafka, and Redis. |
+| **[SafeAPI-Bridge](https://github.com/mtgsoftworks/SafeAPI-Bridge)** | ⭐ 4 | JavaScript | Secure API proxy for protecting AI API keys (OpenAI, Gemini, Claude, etc.). |
+| **[Instagram-Reporter-Tool](https://github.com/mtgsoftworks/Instagram-Reporter-Tool)** | ⭐ 3 | Python | Automation-focused repository for Instagram reporting workflows. |
+| **[Project\_MintStack](https://github.com/mtgsoftworks/Project_MintStack)** | ⭐ 2 | Java | Corporate finance portal for BIST/FX/commodity/fund tracking and portfolio workflows. |
+| **[UAV-Advanced-Tracking-System](https://github.com/mtgsoftworks/UAV-Advanced-Tracking-System)** | ⭐ 2 | Python | Real-time UAV detection and tracking with YOLOv8, OpenCV, and PID control. |
 
 ---
 
@@ -75,4 +77,4 @@ Here are some of the key projects I've been working on, showcasing my skills in 
 
 ---
 
-_This README was updated based on an analysis of your recent activity and pinned projects._
+_This README was updated based on current repository star counts._

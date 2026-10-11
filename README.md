@@ -1,78 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mesut Taha Güven</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h1 align="center">Mesut Taha Güven</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtgsoftworks&label=Profile%20views&color=0e75b6&style=flat" alt="mtgsoftworks" /> </p>
+<p align="center">
+  <b>Full-Stack & AI/ML Engineer</b> · Turkey<br/>
+  Building production software across web, mobile, and applied AI at <b>MTG Softworks</b>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtgsoftworks" alt="mtgsoftworks" /></a> </p>
-
----
-
-### 🚀 Featured Projects & Highlights
-
-Here are some of the key projects I've been working on, showcasing my skills in full-stack development, AI/ML, and cross-platform mobile applications.
-
-| Project Name | Primary Technology | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **[eduGenie](https://github.com/mtgsoftworks/eduGenie)** | Python | An interactive chatbot that supports English language learning with personalized responses, emotion detection, and a talking head avatar for an immersive experience. (AI/ML, NLP, Python) | Active |
-| **[Forex\_Project](https://github.com/mtgsoftworks/Forex_Project)** | Java | Enterprise forex exchange rate processing platform featuring TCP streaming, REST APIs, real-time calculations, and event-driven architecture with Kafka & Redis. (Backend, High-Performance) | Completed |
-| **[MasrafApp](https://github.com/mtgsoftworks/MasrafApp)** | Dart (Flutter) | A sleek, cross-platform mobile app designed to simplify personal expense tracking, featuring secure sign-in, customizable categories, and interactive analytics. (Mobile, Cross-Platform) | Active |
-| **[MedVisionAI](https://github.com/mtgsoftworks/MedVisionAI)** | Python | A deep learning project focused on medical image analysis, likely involving computer vision models for diagnosis or feature extraction. (Deep Learning, Computer Vision) | New |
-| **[SafeAPI-Bridge](https://github.com/mtgsoftworks/SafeAPI-Bridge)** | JavaScript | A project likely focused on securely bridging or managing API interactions, emphasizing security and robust integration. (API Gateway, Security) | New |
-
----
-
-### 💡 Currently Focusing On
-
-*   🔭 I’m currently working on **[eduGenie](https://github.com/mtgsoftworks/eduGenie)** and exploring new deep learning applications with **[MedVisionAI](https://github.com/mtgsoftworks/MedVisionAI)**.
-*   🌱 I’m currently learning **PyTorch, Tenserflow, YOLO, ConvNet, OpenCV** to deepen my expertise in AI and Computer Vision.
-*   💬 Ask me about **Python3, C#, YOLO, Machine-Learning, Cyber-Security**.
-*   ⚡ Fun fact **Video games inspire my creativity and keep me constantly learning.**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://linkedin.com/in/mesut-taha-guven"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/15094498"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="mailto:mtg@duck.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### About
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtgsoftworks&show_icons=true&locale=en&layout=compact" alt="mtgsoftworks" /></p>
+- Building **[MintStack Finance Portal](https://github.com/mtgsoftworks/Project_MintStack)**, a full-stack finance platform for the Turkish market
+- Backend: **Java / Spring Boot**, **NestJS**, **FastAPI**, with **PostgreSQL**, **Kafka**, **Redis**, and **Docker**
+- Frontend and mobile: **React**, **Next.js**, **Flutter**, **Capacitor**
+- Applied AI: LLM integration (Gemini, Claude, Whisper), RAG pipelines, PyTorch, and OpenCV
+- Two mobile games published on the **Google Play Store**
 
 ---
 
-### 🌐 Connect with me:
+### Featured Projects
 
-<p align="left">
-<a href="https://linkedin.com/in/mesut-taha-guven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesut-taha-guven" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15094498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15094498" height="30" width="40" /></a>
-<a href="mailto:mtg@duck.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mtg@duck.com" height="30" width="40" /></a>
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[MintStack Finance Portal](https://github.com/mtgsoftworks/Project_MintStack)** | Java 21 · Spring Boot · React · PostgreSQL · Keycloak | Market tracking for BIST, forex, commodities, and funds, with portfolio management, technical analysis, alerts, and role-based admin. |
+| **[Forex_Project](https://github.com/mtgsoftworks/Forex_Project)** | Spring Boot · Kafka · Redis · OpenSearch | Enterprise exchange-rate processing with TCP streaming, REST APIs, real-time calculation, and event-driven microservices. |
+| **[SafeAPI-Bridge](https://github.com/mtgsoftworks/SafeAPI-Bridge)** | Node.js · Express · JWT | API gateway that keeps AI provider keys out of client apps, with quotas, rate limiting, audit logs, and BYOK split-key mode. |
+| **[MedVisionAI](https://github.com/mtgsoftworks/MedVisionAI)** | Python · FastAPI · MedGemma · Gemini | Medical AI assistant with 215+ biomedical tools and live FDA and OpenTargets data, in Turkish and English. |
+| **[SuppleAI](https://github.com/mtgsoftworks/SuppleAI)** | TypeScript · NestJS · React · pgvector | Supplement price tracking and semantic search, with RAG-based recommendations in Turkish. |
+| **[eduGenie](https://github.com/mtgsoftworks/eduGenie)** | Python · Flask · Transformers | English-learning chatbot with personalized responses, emotion detection, and a talking-head avatar. |
+| **[Game Center](https://github.com/mtgsoftworks/Game-Center)** | Node.js · React · MUI · Firebase | Casual gaming platform with real-time chat lobbies, built as a Lerna monorepo. |
+
+---
+
+### On Google Play
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.mtgsoftworks.quickbingo"><img src="https://img.shields.io/badge/QuickBingo-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="QuickBingo"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.mtgsoftworks.speedytap"><img src="https://img.shields.io/badge/SpeedyTap-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="SpeedyTap"/></a>
 </p>
 
 ---
 
-_This README was updated based on an analysis of your recent activity and pinned projects._
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,ts,js,cpp,dart,react,nextjs,nestjs,spring,flask,flutter,pytorch,tensorflow,opencv,postgres,mysql,redis,kafka,docker,firebase,git,linux&perline=12" alt="Tech stack"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mtgsoftworks&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtgsoftworks&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+</p>
